@@ -1,0 +1,19 @@
+#editamt{
+    background: #283A46 0% 0% no-repeat padding-box;
+border: 1px solid #356680;
+border-radius: 10px;
+opacity: 1;
+height: 25px;
+}
+
+#noteedit{
+    background: #283A46 0% 0% no-repeat padding-box;
+border: 1px solid #356680;
+border-radius: 10px;
+opacity: 1;
+
+}
+
+#resetedit{
+    border: 1px solid #14AFF1;
+}
