@@ -29,6 +29,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## UI Visual
+
+![Screenshot (673)](https://user-images.githubusercontent.com/73250865/114760316-cdd92e00-9d7c-11eb-8415-364383f44dc6.png)
+
 
 
 
